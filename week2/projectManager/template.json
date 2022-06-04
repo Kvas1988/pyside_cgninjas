@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Scene",
+        "content": [
+            {
+                "name": "Objects",
+                "content": []
+            },
+            {
+                "name": "Textures",
+                "content": []
+            }
+        ]
+    },
+    {
+        "name": "Render",
+        "content": [
+            {
+                "name": "img",
+                "content": []
+            },
+            {
+                "name": "video",
+                "content": []
+            }
+        ]
+    }
+]
